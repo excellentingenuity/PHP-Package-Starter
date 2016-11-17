@@ -1,6 +1,6 @@
 <?php
 
-abstract Testcase extends extends \PHPUnit_Framework_TestCase
+abstract class Testcase extends \PHPUnit_Framework_TestCase
 {
     public function setUp()
     {
